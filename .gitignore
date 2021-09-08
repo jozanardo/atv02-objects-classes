@@ -1,0 +1,9 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+/src/main/java/LargeIntegerSolution.java
+/src/main/java/RectangleSolution.java
+/src/test/resources/check-large-integers.py
+/src/test/java/LargeIntegerSolutionTest.java
